@@ -1,0 +1,347 @@
+,source,target
+0,Baron Zemo,Blackout 
+1,Baron Zemo,Vermin 
+2,N'astirh,S'ym
+3,N'astirh,Belasco 
+4,N'astirh,Madelyne Pryor
+5,Silver Sable,Peregrine 
+6,Hope Summers ,Cable 
+7,Magik ,Belasco 
+8,Night Thrasher ,Midnight's Fire
+9,Night Thrasher ,Silhouette 
+10,Orb ,Justin Hammer
+11,Forge ,Storm 
+12,U.S. Agent ,Battlestar 
+13,Venom ,Carnage 
+14,Venom ,Doctor Doom
+15,Venom ,Spider-Man
+16,Venom ,Magneto 
+17,Venom ,Red Skull
+18,Venom ,Eddie Brock
+19,Hercules ,Amadeus Cho
+20,Selene ,Senyaka
+21,Selene ,Eli Bard
+22,Selene ,Wither 
+23,Selene ,Lois London
+24,Selene ,Blink 
+25,Hood ,Cyclone 
+26,Hood ,Madame Masque
+27,Sabretooth ,Pasco 
+28,Beetle ,Ringer 
+29,Siryn,Black Tom Cassidy
+30,Siryn,Juggernaut 
+31,Malekith the Accursed,Surtur 
+32,Malekith the Accursed,Kurse
+33,Malekith the Accursed,Loki 
+34,Mister Negative,Hammerhead 
+35,Jessica Jones,Carol Danvers
+36,Jessica Jones,Luke Cage
+37,Maria Hill,Iron Man
+38,Maria Hill,Nick Fury
+39,Maria Hill,Captain America
+40,Master Izo,Iron Fist 
+41,Valkyrie ,Aragorn 
+42,Nova ,Spider-Man 
+43,Rampage ,Jigsaw 
+44,Cable ,Domino 
+45,Cable ,Rachel Summers
+46,Cable ,Deadpool
+47,Mercurio the 4-D Man,Thor 
+48,Mojo ,Spiral 
+49,Trevor Fitzroy,Shard 
+50,Rev ,Jigsaw 
+51,Matsu'o Tsurayaba,Abraham Cornelius
+52,Elsie-Dee,Albert 
+53,Motormouth ,Killpower
+54,Mephisto ,Zarathos
+55,Fury ,Mad Jim Jaspers
+56,Andromeda ,Namor
+57,Magneto ,Garokk
+58,Wasp ,Hank Pym
+59,Spidercide,Jackal 
+60,Crimson Dynamo,Answer 
+61,Crimson Dynamo,Darkstar 
+62,Nomad ,Demolition Man 
+63,Nomad ,Falcon 
+64,Nomad ,Captain America
+65,Kro ,Ghaur
+66,Kro ,Giganto
+67,Walrus ,White Rabbit 
+68,Spymaster ,Justin Hammer
+69,Hawkeye ,Hawkeye 
+70,Headlok,Griffin 
+71,Gamora,Adam Warlock
+72,War Machine,Iron Man
+73,War Machine,Iron Man 
+74,Titania ,Doctor Doom
+75,Titania ,Absorbing Man
+76,"Bob, Agent of Hydra",Deadpool
+77,T-Ray ,Slayback
+78,Nick Fury,Shiver Man
+79,Aragorn ,Black Knight 
+80,Mandarin ,Unicorn 
+81,Cobra ,Mister Hyde 
+82,Kraven the Hunter,Calypso 
+83,Kraven the Hunter,Chameleon 
+84,Daredevil ,Black Widow 
+85,Daredevil ,Kingpin 
+86,Daredevil ,Iron Fist 
+87,Llyra,Attuma
+88,Llyra,Ghaur
+89,Crane Mother,Steel Serpent
+90,Anya Corazon,Spider-Man
+91,Anya Corazon,Spider-Woman 
+92,Anya Corazon,Carol Danvers
+93,Ulik,Loki 
+94,Abner Jenkins,Gladiator 
+95,Abner Jenkins,Justin Hammer
+96,Abner Jenkins,Collector 
+97,Fixer ,Mentallo
+98,Fixer ,Alexander Bont
+99,Bucky Barnes,Black Widow 
+100,Bucky Barnes,Captain America
+101,Red Raven ,Bi-Beast
+102,Tarantula ,Jackal 
+103,Enchantress ,Wonder Man
+104,Enchantress ,Executioner 
+105,Enchantress ,Doctor Doom
+106,Enchantress ,Erik Josten
+107,Enchantress ,Loki 
+108,Venomm,Erik Killmonger
+109,Spider-Man ,Spider-Man
+110,Spider-Man ,Spider-Woman 
+111,Spider-Man ,Silk 
+112,Thing ,Mole Man
+113,Tombstone ,Hammerhead 
+114,Tombstone ,Janice Lincoln
+115,Toro ,Human Torch 
+116,Iron Man,Wraith 
+117,Iron Man,Pepper Potts
+118,Iron Man,Riri Williams
+119,Torpedo ,Rom 
+120,Erik Josten,Grim Reaper 
+121,Mastermind ,Arcade 
+122,Kurse,Thor 
+123,White Rabbit ,Arcade 
+124,Lemuel Dorcas,Attuma
+125,Lemuel Dorcas,Byrrah
+126,Lemuel Dorcas,Krang 
+127,Lemuel Dorcas,Tiger Shark 
+128,Justin Hammer,Stiletto 
+129,Justin Hammer,Discus 
+130,Satannish,Dormammu
+131,Mendel Stromm,Jason Macendale
+132,Adam Warlock,Pip the Troll
+133,Fin Fang Foom,Elektro 
+134,Lorelei ,Pluto 
+135,Lorelei ,Loki 
+136,Shiver Man,Beast 
+137,Shiver Man,Wolverine 
+138,Namorita,Fin 
+139,Namorita,Namor
+140,Namorita,Namora
+141,Shriker,Caretaker 
+142,Shriker,Ghost Rider
+143,Gilded Lily ,Diablo 
+144,Carrion ,Carnage 
+145,Carrion ,Demogoblin
+146,Carrion ,Shriek 
+147,Carrion ,Cletus Kasady
+148,Carrion ,Doppelganger 
+149,Ms. Marvel ,Inferno 
+150,Space Phantom,Grim Reaper 
+151,Gambit ,Danger Room
+152,Glob ,Leader 
+153,Gladiator ,Alexander Bont
+154,Exodus ,Man-Beast
+155,Super Sabre ,Stonewall 
+156,Super Sabre ,Crimson Commando
+157,S'ym,Belasco 
+158,Matador ,Man-Bull
+159,Tiger Shark ,Attuma
+160,Mad Thinker,Egghead 
+161,Mad Thinker,Puppet Master 
+162,Mad Thinker,Awesome Android
+163,Mad Thinker,Wizard 
+164,Mad Thinker,Klaw 
+165,Alpha the Ultimate Mutant,Futurist 
+166,Mariko Yashida,Wolverine 
+167,Demogoblin,Carnage 
+168,Demogoblin,Doppelganger 
+169,Demogoblin,Cletus Kasady
+170,Demogoblin,Shriek 
+171,Scarecrow ,Eel 
+172,Scarecrow ,Porcupine 
+173,Scarecrow ,Count Nefaria
+174,Scarecrow ,Will o' the Wisp 
+175,Scarecrow ,Unicorn 
+176,Scarecrow ,Plantman
+177,Redwing ,Falcon 
+178,Hiro Takachiho,Baymax
+179,Lilith ,Zarathos
+180,Baron Strucker,Helmut Zemo
+181,Baron Strucker,Red Skull
+182,Presence ,Starlight 
+183,Swordsman ,Hawkeye 
+184,Blackout ,Deathwatch 
+185,Falcon ,Captain America
+186,Krang ,Attuma
+187,Krang ,Orka 
+188,Krang ,Puppet Master 
+189,Krang ,Byrrah
+190,Mandrill ,Silver Samurai
+191,Mandrill ,Nekra
+192,Black Tom Cassidy,Mondo 
+193,Black Tom Cassidy,Juggernaut 
+194,Baron Mordo,Dormammu
+195,Baron Mordo,Kaecilius
+196,Nate Grey,Madelyne Pryor
+197,Nate Grey,Threnody 
+198,Annihilus,Blastaar
+199,Jamie Braddock,Psylocke
+200,Jamie Braddock,Sat-Yr-9
+201,Diablo ,Dragon Man
+202,Molten Man,Will o' the Wisp 
+203,Abomination ,Leader 
+204,Abomination ,Rhino 
+205,Abomination ,Galaxy Master
+206,Ghaur,Attuma
+207,Danger Room,Rogue 
+208,Danger Room,Ord 
+209,Copycat ,Domino 
+210,Copycat ,Deadpool
+211,Copycat ,Garrison Kane
+212,Mangog,Thanos
+213,Hulk ,Mole Man
+214,Hulk ,She-Hulk
+215,Hulk ,Doc Samson
+216,Ymir ,Surtur 
+217,Thanos,Pip the Troll
+218,Chimera ,Emplate
+219,Chimera ,Dirtnap 
+220,Spot ,Kangaroo 
+221,Prowler ,Spider-Man
+222,Black Bolt,Inferno 
+223,Harry Osborn,Spider-Man
+224,Tyrak,Attuma
+225,Shuri ,Black Panther 
+226,Fenris ,Abraham Cornelius
+227,Jennifer Kale,Man-Thing
+228,Mister Hyde ,Batroc the Leaper
+229,Mister Hyde ,Mac Gargan
+230,Mockingbird ,Spider-Man
+231,Mockingbird ,Hawkeye 
+232,Man-Ape,Grim Reaper 
+233,Iron Fist ,Power Man 
+234,Iron Fist ,Luke Cage
+235,Iron Fist ,Misty Knight
+236,Iron Fist ,Colleen Wing
+237,Iron Fist ,White Tiger 
+238,Crossbones ,Red Skull
+239,Crossbones ,Sin 
+240,Egghead ,Puppet Master 
+241,Demolition Man ,Captain America
+242,Kaecilius,Dormammu
+243,Deadpool,Domino 
+244,Deadpool,Spider-Man
+245,Sin ,Red Skull
+246,Eel ,Unicorn 
+247,Wizard ,Puppet Master 
+248,Beast ,Abigail Brand
+249,Nekra,Grim Reaper 
+250,Hela ,Midgard Serpent 
+251,Hela ,Fenris Wolf 
+252,Hela ,Loki 
+253,Juggernaut ,Mondo 
+254,Juggernaut ,Cyttorak
+255,Umar ,Dormammu
+256,Doctor Doom,Puppet Master 
+257,Namor,Fin 
+258,Namor,Namora
+259,Namor,Stingray 
+260,Hawkeye ,Black Widow 
+261,Wraith ,Spider-Man
+262,Inferno ,Gorgon 
+263,Inferno ,Medusa 
+264,Puma ,Spider-Man
+265,Puma ,Black Cat 
+266,Volcana ,Molecule Man
+267,Black Cat ,Spider-Man
+268,Black Cat ,Silk 
+269,Spider-Man,Kingpin 
+270,Spider-Man,Silk 
+271,Ringer ,Leila Davis
+272,Power Broker,Red Skull
+273,Misty Knight,Colleen Wing
+274,Misty Knight,Luke Cage
+275,Doctor Octopus,Chameleon 
+276,Luke Cage,Power Man 
+277,Luke Cage,Colleen Wing
+278,Ravonna,Kang the Conqueror
+279,Leila Davis,Boomerang 
+280,Leila Davis,Vulture 
+281,Leila Davis,Rhino 
+282,Silver Samurai,Boomerang 
+283,Silver Samurai,Viper 
+284,Will o' the Wisp ,Jonas Harrow
+285,Black Fox ,Red Ghost
+286,Dormammu,Nicholas Scratch
+287,Cloak and Dagger ,Mayhem 
+288,Darkstar ,Griffin 
+289,Darkstar ,Titanium Man
+290,Mole Man,Kala 
+291,Mole Man,Red Ghost
+292,Mole Man,Giganto
+293,Thor ,Sif 
+294,Surtur ,Loki 
+295,Unicorn ,Red Ghost
+296,Unicorn ,Titanium Man
+297,Unicorn ,Porcupine 
+298,Unicorn ,Count Nefaria
+299,Unicorn ,Plantman
+300,Black Widow ,Captain America
+301,Leader ,Madman 
+302,Leader ,Chameleon 
+303,Doctor Strange,Topaz 
+304,Ghost Rider,Vengeance 
+305,Cletus Kasady,Doppelganger 
+306,Cletus Kasady,Shriek 
+307,Gibbon ,Kangaroo 
+308,Devil Dinosaur,Moon Girl 
+309,Devil Dinosaur,Moon-Boy
+310,Shriek ,Carnage 
+311,Shriek ,Doppelganger 
+312,Discus ,Stiletto 
+313,Black Panther ,Storm 
+314,Spider-Girl,Buzz 
+315,Doctor Faustus ,Red Skull
+316,Attuma,Red Ghost
+317,Attuma,Byrrah
+318,Jocasta ,Ultron
+319,Jocasta ,Hank Pym
+320,Electro ,Chameleon 
+321,Chameleon ,Hammerhead 
+322,Chameleon ,Red Skull
+323,Spider-Woman ,Silk 
+324,Spider-Woman ,Spider-Woman 
+325,Grizzly ,Kangaroo 
+326,Grizzly ,Jackal 
+327,Vengeance ,Eddie Brock
+328,Bucky ,Captain America
+329,Kangaroo ,Jonas Harrow
+330,Free Spirit ,Captain America
+331,Psycho-Man,Shellshock 
+332,Grim Reaper ,Ultron
+333,Grim Reaper ,Black Talon 
+334,Boomerang ,Viper 
+335,Kid Kaiju,Moon Girl 
+336,Kid Kaiju,Elsa Bloodstone
+337,Jack Flag,Captain America
+338,Spider-Woman ,Silk 
+339,Carnage ,Doppelganger 
+340,Man-Beast,Bi-Beast
+341,Captain America,Rikki Barnes
+342,Red Skull,Viper 
+343,Red Skull,Arnim Zola
+344,Apocalypse ,Mister Sinister
+345,Namora,Fin 
