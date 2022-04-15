@@ -40,29 +40,28 @@ class marvel_network:
         marvel_adj = nx.to_numpy_array(graph) # This creates the adjacency array for the digraph
         return marvel_adj
     
-    def neighbors(self, node_id):
+    def binarize(self, threshold):
         """
-        Helper function for finding the neighbors of a given node.
-        
-        Parameters
-        -----------
-        node_id: int
-            ID of the node to be found the neighbors of.
-            
-        Return
-        -----------
-        neighbors: list
-            list of node IDs of the neighbors of ``node_id``.
+        Function for binarizing a weighted adjacency matrix.
+
+        Parameters:
+        -----------------
+        threshold: float for cutting off the edges.
+
+        Returns:
+        ----------------
+        binarized: numpy array.
+
         """
-        
-        if node_id > self.size: 
-            return('Invalid node ID')
-        neighbors = []
-        
-        for i,e in enumerate(self.matrix[node_id]):
-            if e == 1:
-                neighbors.append(i)
-        return(neighbors)
+        binarized = np.zeros(self.matrix.shape, dtype = np.int64)
+        for i in range(self.matrix.shape[0]):
+            for j in range(self.matrix.shape[1]):
+                if self.matrix[i][j] > threshold:
+                    binarized[i][j] = 1
+                    binarized[j][i] = 1
+                else:
+                    pass
+        return(binarized)
     
     # Number of degrees
 
@@ -142,7 +141,7 @@ class marvel_network:
                 size=10,
                 colorbar=dict(
                     thickness=15,
-                    title='Node Connections',
+                    title='%s Centrality'%rankingType,
                     xanchor='left',
                     titleside='right'
                 ),
